@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277778946941",
+    "firebase_url": "https://fir-419f9.firebaseio.com",
+    "project_id": "fir-419f9",
+    "storage_bucket": "fir-419f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277778946941:android:112f249a0e7e68bc",
+        "android_client_info": {
+          "package_name": "com.example.keert.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277778946941-foe2pog831601e06ddh3hfgfm264s2lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdwL1E6ji0YlfESXkRM9e2RK5Wl5lFcY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
