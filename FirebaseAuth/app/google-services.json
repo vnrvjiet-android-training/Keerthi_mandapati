@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "70079761701",
+    "firebase_url": "https://fir-auth-37f79.firebaseio.com",
+    "project_id": "fir-auth-37f79",
+    "storage_bucket": "fir-auth-37f79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70079761701:android:ca5e3be91a52c450",
+        "android_client_info": {
+          "package_name": "com.example.keert.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70079761701-ldvumu8134kcl8irq37hc0rj0itlquct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm9tosqjBUkV5UehFLfyTKnlm1Y0TjUqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
